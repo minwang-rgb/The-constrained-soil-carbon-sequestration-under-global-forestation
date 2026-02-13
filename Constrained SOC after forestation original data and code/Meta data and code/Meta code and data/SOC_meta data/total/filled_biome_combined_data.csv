@@ -1,0 +1,105 @@
+﻿id,facet,Group1,N ,Landuse,group,OR,Lower,Upper
+3,0-30cm,Active,655,Cropland,T.ST,44.95,27.87,64.32
+3,0-30cm,Passive,215,Cropland,T.ST,33.94,17.92,52.14
+3,0-30cm,SOC,164,Cropland,T.ST,28.78,11.71,48.47
+3,0-30cm,Sensitivity,211,Cropland,T.ST,10.41,-12.36,39.09
+4,30+cm,Active,146,Cropland,T.ST,21.1,-11.77,66.21
+4,30+cm,Passive,54,Cropland,T.ST,-1.57,-29.02,36.49
+4,30+cm,SOC,42,Cropland,T.ST,7.07,-23.08,49.05
+4,30+cm,Sensitivity,54,Cropland,T.ST,-13.63,-31.53,8.94
+3,0-30cm,Active,28,Cropland,Grasslands.savannas,16.58,-29.08,91.63
+3,0-30cm,Passive,25,Cropland,Grasslands.savannas,19.22,-28.29,98.19
+3,0-30cm,SOC,19,Cropland,Grasslands.savannas,-12.13,-47.8,47.89
+3,0-30cm,Sensitivity,15,Cropland,Grasslands.savannas,30.83,-41.15,190.82
+4,30+cm,Active,8,Cropland,Grasslands.savannas,-13.94,-44.71,33.95
+4,30+cm,Passive,11,Cropland,Grasslands.savannas,11.83,-27.16,71.69
+4,30+cm,SOC,7,Cropland,Grasslands.savannas,-13.48,-45.35,36.96
+4,30+cm,Sensitivity,7,Cropland,Grasslands.savannas,9.7,-50.71,144.15
+3,0-30cm,Active,1686,Cropland,Temperate forests,85.59,67.83,105.24
+3,0-30cm,Passive,678,Cropland,Temperate forests,74.85,57.51,94.1
+3,0-30cm,SOC,500,Cropland,Temperate forests,74.12,56.58,93.63
+3,0-30cm,Sensitivity,574,Cropland,Temperate forests,30.48,13.45,50.07
+4,30+cm,Active,1467,Cropland,Temperate forests,52.06,31.7,75.56
+4,30+cm,Passive,606,Cropland,Temperate forests,27.44,10.18,47.42
+4,30+cm,SOC,369,Cropland,Temperate forests,26.51,9.17,46.61
+4,30+cm,Sensitivity,515,Cropland,Temperate forests,18.1,2.67,35.84
+3,0-30cm,Active,470,Cropland,Med.Mon shrublands,41.96,25.48,60.59
+3,0-30cm,Passive,183,Cropland,Med.Mon shrublands,40.52,24.18,59.02
+3,0-30cm,SOC,169,Cropland,Med.Mon shrublands,41.04,23.21,61.45
+3,0-30cm,Sensitivity,168,Cropland,Med.Mon shrublands,48.11,10.57,98.4
+4,30+cm,Active,212,Cropland,Med.Mon shrublands,8.59,-10.59,31.87
+4,30+cm,Passive,65,Cropland,Med.Mon shrublands,12.19,-10.93,41.32
+4,30+cm,SOC,113,Cropland,Med.Mon shrublands,20.84,-2,48.99
+4,30+cm,Sensitivity,60,Cropland,Med.Mon shrublands,37.9,2.93,84.75
+3,0-30cm,Active,416,Grassland,T.ST,21.25,6.64,37.87
+3,0-30cm,Passive,214,Grassland,T.ST,20.61,5.94,37.32
+3,0-30cm,SOC,146,Grassland,T.ST,19.65,4.17,37.43
+3,0-30cm,Sensitivity,226,Grassland,T.ST,12.64,-2.31,29.88
+4,30+cm,Active,131,Grassland,T.ST,25.16,1.89,53.74
+4,30+cm,Passive,67,Grassland,T.ST,34.3,8.84,65.72
+4,30+cm,SOC,38,Grassland,T.ST,38.55,9.27,75.67
+4,30+cm,Sensitivity,67,Grassland,T.ST,11.09,-3.79,28.28
+3,0-30cm,Active,65,Grassland,Grasslands.savannas,54.44,-0.35,139.36
+3,0-30cm,Passive,47,Grassland,Grasslands.savannas,30.48,-15.94,102.56
+3,0-30cm,SOC,43,Grassland,Grasslands.savannas,36.46,-12.09,111.82
+3,0-30cm,Sensitivity,38,Grassland,Grasslands.savannas,8.59,-9.08,29.7
+4,30+cm,Active,8,Grassland,Grasslands.savannas,-25.28,-42.9,-2.24
+4,30+cm,Passive,7,Grassland,Grasslands.savannas,3.78,-22.14,38.34
+4,30+cm,SOC,7,Grassland,Grasslands.savannas,8.35,-18.72,44.42
+4,30+cm,Sensitivity,4,Grassland,Grasslands.savannas,16.28,-3.82,40.59
+3,0-30cm,Active,276,Grassland,Temperate forests,15.56,-4.67,40.08
+3,0-30cm,Passive,110,Grassland,Temperate forests,-8.13,-25.41,13.16
+3,0-30cm,SOC,61,Grassland,Temperate forests,10.51,-11.68,38.29
+3,0-30cm,Sensitivity,84,Grassland,Temperate forests,11.65,-7.87,35.3
+4,30+cm,Active,103,Grassland,Temperate forests,0.09,-16.21,19.56
+4,30+cm,Passive,76,Grassland,Temperate forests,-12.67,-27.89,5.76
+4,30+cm,SOC,46,Grassland,Temperate forests,1.24,-17.57,24.34
+4,30+cm,Sensitivity,61,Grassland,Temperate forests,-3.25,-20.21,17.33
+3,0-30cm,Active,35,Grassland,Temperate grasslands,-10.6,-47.65,52.67
+3,0-30cm,Passive,14,Grassland,Temperate grasslands,63.2,-7.14,186.82
+3,0-30cm,SOC,19,Grassland,Temperate grasslands,1.11,-41.53,74.85
+3,0-30cm,Sensitivity,18,Grassland,Temperate grasslands,-38.74,-61.35,-2.89
+4,30+cm,Active,21,Grassland,Temperate grasslands,-8.92,-50.61,67.97
+4,30+cm,Passive,8,Grassland,Temperate grasslands,8.33,-45.87,116.81
+4,30+cm,SOC,9,Grassland,Temperate grasslands,-13.85,-56.04,68.84
+4,30+cm,Sensitivity,8,Grassland,Temperate grasslands,7.89,-32.16,71.56
+3,0-30cm,Active,264,Grassland,Med.Mon shrublands,16.47,-9.08,49.19
+3,0-30cm,Passive,127,Grassland,Med.Mon shrublands,-7.35,-28.14,19.45
+3,0-30cm,SOC,80,Grassland,Med.Mon shrublands,9.13,-16.01,41.78
+3,0-30cm,Sensitivity,117,Grassland,Med.Mon shrublands,29.17,5.66,57.91
+4,30+cm,Active,105,Grassland,Med.Mon shrublands,-1.74,-35.63,50
+4,30+cm,Passive,48,Grassland,Med.Mon shrublands,2.3,-33.4,57.12
+4,30+cm,SOC,31,Grassland,Med.Mon shrublands,-5.38,-39.01,46.79
+4,30+cm,Sensitivity,48,Grassland,Med.Mon shrublands,39.4,13.95,70.54
+3,0-30cm,Active,830,Natural,T.ST,-21.58,-29.19,-13.16
+3,0-30cm,Passive,282,Natural,T.ST,-20.78,-28.48,-12.25
+3,0-30cm,SOC,217,Natural,T.ST,-19.71,-28.47,-9.87
+3,0-30cm,Sensitivity,244,Natural,T.ST,-18.21,-30.48,-3.78
+4,30+cm,Active,381,Natural,T.ST,-33.3,-45.96,-17.68
+4,30+cm,Passive,117,Natural,T.ST,-31.76,-44.78,-15.67
+4,30+cm,SOC,61,Natural,T.ST,-25.93,-40.74,-7.42
+4,30+cm,Sensitivity,104,Natural,T.ST,-24.83,-36.17,-11.47
+3,0-30cm,Active,38,Natural,Grasslands.savannas,-50.44,-76.22,3.32
+3,0-30cm,Passive,19,Natural,Grasslands.savannas,-44.08,-73.44,17.74
+3,0-30cm,SOC,18,Natural,Grasslands.savannas,-44.02,-73.52,18.33
+3,0-30cm,Sensitivity,16,Natural,Grasslands.savannas,-17.48,-41.89,17.2
+4,30+cm,Active,6,Natural,Grasslands.savannas,-13.38,-68.63,139.23
+4,30+cm,Passive,7,Natural,Grasslands.savannas,39.13,-49.55,283.66
+4,30+cm,SOC,10,Natural,Grasslands.savannas,31.98,-51.83,261.59
+4,30+cm,Sensitivity,4,Natural,Grasslands.savannas,-46.22,-62.37,-23.13
+3,0-30cm,Active,476,Natural,Temperate forests,-27.46,-36.34,-17.34
+3,0-30cm,Passive,177,Natural,Temperate forests,-33.48,-41.89,-23.85
+3,0-30cm,SOC,140,Natural,Temperate forests,-21.66,-31.57,-10.32
+3,0-30cm,Sensitivity,170,Natural,Temperate forests,1.32,-12.93,17.91
+4,30+cm,Active,114,Natural,Temperate forests,-15.57,-30.94,3.22
+4,30+cm,Passive,50,Natural,Temperate forests,-14.19,-31.69,7.78
+4,30+cm,SOC,28,Natural,Temperate forests,-15.36,-34.57,9.5
+4,30+cm,Sensitivity,50,Natural,Temperate forests,-1.72,-15.69,14.58
+3,0-30cm,Active,227,Natural,Med.Mon shrublands,-39.23,-48.87,-27.78
+3,0-30cm,Passive,78,Natural,Med.Mon shrublands,-13.66,-29.92,6.37
+3,0-30cm,SOC,76,Natural,Med.Mon shrublands,-28.68,-41.83,-12.55
+3,0-30cm,Sensitivity,78,Natural,Med.Mon shrublands,-21.68,-36.52,-3.37
+4,30+cm,Active,80,Natural,Med.Mon shrublands,-20.39,-39.93,5.5
+4,30+cm,Passive,19,Natural,Med.Mon shrublands,-25.66,-48.56,7.44
+4,30+cm,SOC,30,Natural,Med.Mon shrublands,-24.37,-45.85,5.62
+4,30+cm,Sensitivity,19,Natural,Med.Mon shrublands,-15.66,-31.84,4.35

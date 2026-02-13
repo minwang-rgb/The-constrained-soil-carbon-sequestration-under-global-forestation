@@ -1,0 +1,25 @@
+id,facet,group,N ,Landuse,OR,Lower,Upper
+3,0-30cm,N_SOC,274,Abandoned,28.67,11.97,47.85
+3,0-30cm,N_Sensitivity,365,Abandoned,6.23,-8.77,23.7
+4,30+cm,N_SOC,224,Abandoned,6.81,-17.67,38.58
+4,30+cm,N_Sensitivity,240,Abandoned,-4.91,-18.36,10.76
+3,0-30cm,N_SOC,209,Bareland,112.11,74.72,157.51
+3,0-30cm,N_Sensitivity,239,Bareland,19.6,-11.98,62.51
+4,30+cm,N_SOC,89,Bareland,64.87,33.95,102.93
+4,30+cm,N_Sensitivity,59,Bareland,-3.4,-28.96,31.37
+3,0-30cm,N_SOC,1302,Cropland,53,44.88,61.58
+3,0-30cm,N_Sensitivity,1502,Cropland,23.24,14.32,32.86
+4,30+cm,N_SOC,760,Cropland,20.96,11.48,31.24
+4,30+cm,N_Sensitivity,986,Cropland,13.58,5.34,22.47
+3,0-30cm,N_SOC,452,Grassland,13.41,4.56,23.02
+3,0-30cm,N_Sensitivity,590,Grassland,3.79,-6.06,14.67
+4,30+cm,N_SOC,151,Grassland,8.11,-5.6,23.81
+4,30+cm,N_Sensitivity,213,Grassland,1.7,-8,12.42
+3,0-30cm,N_SOC,569,Natural,-14.62,-20.97,-7.77
+3,0-30cm,N_Sensitivity,673,Natural,-15.19,-23.58,-5.88
+4,30+cm,N_SOC,176,Natural,-20.02,-30.1,-8.49
+4,30+cm,N_Sensitivity,229,Natural,-18.44,-26.56,-9.43
+3,0-30cm,N_SOC,187,Sandy,323.03,200.48,495.57
+3,0-30cm,N_Sensitivity,156,Sandy,14.4,-25.37,75.38
+4,30+cm,N_SOC,44,Sandy,50.03,0.22,124.59
+4,30+cm,N_Sensitivity,36,Sandy,-17.83,-46.47,26.13
